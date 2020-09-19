@@ -14,8 +14,6 @@ function f=attractor_var_1(t,X)
 %    K. Ramasubramanian, M.S. Sriram, "A comparative study of computation 
 %    of Lyapunov spectra with different algorithms", Physica D 139 (2000) 72-86.
 %
-% --------------------------------------------------------------------
-% Copyright (C) 2016, Beklenyshchev V.I.
 
 x=X(1); y=X(2); z=X(3);
 
